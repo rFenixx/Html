@@ -36,7 +36,7 @@
       <h2>
           Informações de Contato
       <h3>Whatsapp</h3>
-      <a href="https://api.whatsapp.com/send?phone=5585991176097">Número
+      <a href="https://api.whatsapp.com/send?phone=5585991176097"> +55 (85) 991176097
       </a>
    <h3>Email</h3>
        <a href="mailto:riquelmeoliveirasales77@gmail.com">riquelmeoliveirasales77@gmail.com
