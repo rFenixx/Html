@@ -24,14 +24,14 @@
      Buscar uma colocação Profissional nessa empresa no meio de  construção HTML,e  aprimorar e desenvolver os meus conhecimentos de Sistema Web  
       </p>
    <h2>Formação Acadêmica</h2>
-      <ul>
+      <ol>
          <li>
          Cursando 1° ano do Ensino Médio 
          </li> 
          <li>
              Escola Profissionalizante (Informática )
          </li> 
-      </ul>
+      </ol>
       <hr/><!-- linha horizontal -->
       <h2>
           Informações de Contato
